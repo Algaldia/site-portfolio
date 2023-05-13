@@ -24,3 +24,23 @@ Nesse curso você vai dominar o **git** _do zero ao profissional._
 >Este é um blockcode
 >
 >Segunda area do blockcode
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+
+```js
+function showName(name){
+    return "Bem vindo " + name;
+}
+```
+
+**Uso do componente HTML**
+```html
+<h1>Titulo do Projeto</h1>
+<span>Curso git</span>
+```
