@@ -31,7 +31,7 @@ Nesse curso você vai dominar o **git** _do zero ao profissional._
 >
 >Segunda area do blockcode
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```
 npm start
