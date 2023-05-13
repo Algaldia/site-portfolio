@@ -9,6 +9,11 @@ Nesse curso você vai dominar o **git** _do zero ao profissional._
 * Trabalhando com **branches**.
 * Usando github de forma profissional
 
+1. Entendendo o que é **git**.
+2. Aprendendo  sobre **repositorios**.
+3. Trabalhando com **branches**.
+4. Usando github de forma profissional
+
 ### Rede social
 [Instagram](www.instagram.com)
 
