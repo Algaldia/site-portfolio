@@ -50,3 +50,10 @@ function showName(name){
 <h1>Titulo do Projeto</h1>
 <span>Curso git</span>
 ```
+
+Propriedade | Descrição
+----------- | ---------
+Name | Informar o nome do usuario
+Size | Para definir o tamanho do campo
+background | Cor de fundo da area em HEX
+onPress | Função chamada quando clicar no botão
